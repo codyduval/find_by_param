@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = Railslove::Plugins::FindByParam::VERSION
   s.authors     = ["Michael Bumann", "Gregor Schmidt"]
   s.email       = "sean@railsdog.com"
-  s.homepage    = "http://github.com/railsdog/find_by_param"
+  s.homepage    = "http://github.com/codyduval/find_by_param"
   s.summary     = "Rails plugin to handle permalink values"
   s.description = "find_by_param is a nice and easy way to handle " +
                   "permalinks and dealing with searching for to_param values"
